@@ -152,7 +152,7 @@ public class Zodiaco {
 
 	}
 	public void Imprimir(){
-		
+		System.out.println("Su Signo Zodiacal es: "+ zoodiaco);
 	}
-	
+		
 }
