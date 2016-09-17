@@ -17,5 +17,14 @@ public class Zodiaco {
 		// TODO Auto-generated method stub
 
 	}
+	public void PedirDatos(){
+	
+	}
+	public void CalcularZodiaco() {
+		
+	}
+	public void Imprimir(){
+		
+	}
 	
 }
