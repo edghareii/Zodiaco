@@ -14,8 +14,13 @@ public class Zodiaco {
 	int Año_Nacimiento;
 	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		// Manda a traer los metodos para que se ejecuten consecutivamente
+		Zodiaco app=new Zodiaco();
+		app.PedirDatos();
+		app.CalcularZodiaco();
+		app.Imprimir();
+		
+		
 	}
 	public void PedirDatos(){
 		
